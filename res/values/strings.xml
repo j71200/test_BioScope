@@ -20,9 +20,9 @@
     <string name="step_count">Step count</string>
     <string name="walking_speed">Walking speed</string>
 
-    <string name="daily_average">Daily average</string>
-    <string name="weekly_average">Weekly average</string>
-    <string name="monthly_average">Monthly average</string>
+    <string name="daily_average">Daily average: </string>
+    <string name="weekly_average">Weekly average: </string>
+    <string name="monthly_average">Monthly average: </string>
 
     <string name="subtitle">Today\'s total count: </string>
     <string name="steps">steps</string>

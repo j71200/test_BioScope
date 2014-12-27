@@ -25,19 +25,31 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int bg=0x7f020000;
-        public static final int bg2=0x7f020001;
-        public static final int ic_launcher=0x7f020002;
-        public static final int left_bg=0x7f020003;
-        public static final int left_bg2=0x7f020004;
-        public static final int tab_bg=0x7f020005;
+        public static final int axis_bg=0x7f020000;
+        public static final int bg=0x7f020001;
+        public static final int bg2=0x7f020002;
+        public static final int ic_launcher=0x7f020003;
+        public static final int plot_bg=0x7f020004;
+        public static final int report_bg=0x7f020005;
+        public static final int switch_plot_bg=0x7f020006;
+        public static final int tab_bg=0x7f020007;
     }
     public static final class id {
-        public static final int action_settings=0x7f090005;
+        public static final int action_settings=0x7f09000f;
+        public static final int canvas_frame=0x7f09000a;
         public static final int fragment_frameLayout=0x7f090000;
         public static final int gesture=0x7f090002;
         public static final int step_count=0x7f090003;
         public static final int textView1=0x7f090001;
+        public static final int text_daily_average=0x7f090005;
+        public static final int text_day=0x7f09000c;
+        public static final int text_min=0x7f09000b;
+        public static final int text_month=0x7f09000e;
+        public static final int text_monthly_average=0x7f090007;
+        public static final int text_steps=0x7f090009;
+        public static final int text_subtitle=0x7f090008;
+        public static final int text_week=0x7f09000d;
+        public static final int text_weekly_average=0x7f090006;
         public static final int walking_speed=0x7f090004;
     }
     public static final class layout {
