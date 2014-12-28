@@ -133,12 +133,14 @@
         
 		<FrameLayout
 		    android:id="@+id/canvas_frame"
-            android:layout_width="wrap_content"
+            android:layout_width="750dp"
             android:layout_height="match_parent"
             android:background="@drawable/axis_bg" >
             
-
-
+			<blue.testproject3.ChartView
+                    android:id="@+id/chartView"
+                    android:layout_width="600dp"
+                    android:layout_height="match_parent" />
             
         </FrameLayout>
         
