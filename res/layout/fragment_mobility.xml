@@ -137,7 +137,7 @@
             android:layout_height="match_parent"
             android:background="@drawable/axis_bg" >
             
-			<blue.testproject3.ChartView
+			<ubicomp.bioscope.main.ChartView
                     android:id="@+id/chartView"
                     android:layout_width="600dp"
                     android:layout_height="match_parent" />

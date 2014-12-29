@@ -7,7 +7,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="horizontal"
-    tools:context="blue.testproject3.MainActivity" >
+    tools:context="ubicomp.bioscope.main.MainActivity" >
     
     <ListView 
         android:id="@id/android:list"
